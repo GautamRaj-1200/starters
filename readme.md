@@ -1,0 +1,1 @@
+### This repository contains starter setup for various projects to practice or implement.
